@@ -2,11 +2,11 @@
 This is a simple to-do list application built using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed.
 
 ## Table of Contents
-- #Features
-- #Usage
-- #Development
-- #Contributing
-- #License
+- [Features](#features)
+- [Usage](#usage)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 - Add Task: Users can add new tasks to the list by entering text in the input field and clicking the "Add" button or pressing Enter.
